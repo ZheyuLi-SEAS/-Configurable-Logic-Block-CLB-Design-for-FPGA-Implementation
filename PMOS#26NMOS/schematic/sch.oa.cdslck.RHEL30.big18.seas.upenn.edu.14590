@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      lizheyu
+HostName                       big18.seas.upenn.edu
+ProcessIdentifier              14590
+ProcessCreationTime_UTC        1726952035
+ProcessCreationTime_Readable   Sat Sep 21 16:53:55 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /mnt/castor/seas_home/l/lizheyu/cadenceGPDK/ESE5700/PMOS#26NMOS/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Sep 21 17:39:14 2024 EDT
